@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(93, 162, 206);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+.kati{color:red;}
+.kati{font-size:large;}
+.ikkyou{color:green;}
+.shogi{font:x-large;}
+.shogi2{font-size:larger;}
